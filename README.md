@@ -2,6 +2,8 @@
 
 En este proyecto se trabaja aprendizaje automático en una serie temporal.
 
+Se trabaja con una serie temporal de pedidos de taxi en aeropuertos. El objetivo es predecir la cantidad de pedidos para la proxima hora, para poder tener las unidades suficientes para el número requerido de viajes.
+
 Para iniciar a analizar series temporales, se hace el remuestreo por el periodo de tiempo que queremos predecir. En este caso, remuestreamos por hora.
 
 Se descompone la serie y se calculan la tendencia, estacionalidad y residuo, así como la diferenciación, para observar el comportamiento de los datos.
